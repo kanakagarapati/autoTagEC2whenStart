@@ -4,9 +4,9 @@
 ## 📌 Objective
 
 Automatically tag newly launched EC2 instances with the current date and a custom owner tag to ensure better resource tracking and management.
-**Note:** I am checking for the instances name starts with `kanakamanoj`
----
 
+---
+**Note:** I am checking for the instances name starts with `kanakamanoj`
 ## 🛠️ Components Used
 
 - **AWS Lambda**
