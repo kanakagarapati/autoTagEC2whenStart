@@ -1,10 +1,10 @@
-# autoTagEC2whenStart
+
 # Assignment 5: Auto-Tagging EC2 Instances on Launch Using AWS Lambda and Boto3
 
 ## 📌 Objective
 
 Automatically tag newly launched EC2 instances with the current date and a custom owner tag to ensure better resource tracking and management.
-
+**Note:** I am checking for the instances name starts with `kanakamanoj`
 ---
 
 ## 🛠️ Components Used
